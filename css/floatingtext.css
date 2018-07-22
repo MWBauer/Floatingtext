@@ -1,0 +1,29 @@
+div.heading {
+    background-color: #bbddff;
+            text-align: center;
+            font-family: arial, helvetica, sans-serif;
+            padding: .2em
+          }
+      
+          p {
+            text-align: justify;
+            font-family: verdana, geneva, sans-serif;
+            margin: .5em
+          }
+      
+          div.floated {
+            background-color: #eeeeee;
+            font-size: 1.5em;
+            font-family: arial, helvetica, sans-serif;
+            padding: .2em;
+            margin-left: .5em;
+            margin-bottom: .5em;
+            float: right;
+            text-align: left;
+            width: 50%
+          }
+      
+          div.section {
+            border: 1px solid #bbddff
+          }
+        
